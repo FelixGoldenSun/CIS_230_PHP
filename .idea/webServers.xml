@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b51330c1-a238-43b0-bbaa-f23c0fd5bfb6" name="phpdev.chesthighwalls.com (project level)" url="http://phpdev.chesthighwalls.com">
+        <fileTransfer host="phpdev.chesthighwalls.com" port="21" rootFolder="/phpdev.chesthighwalls.com" username="benwal31">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="32294e56-c881-46c9-ab3b-2ab35e289cd9" name="cis230.chesthighwalls.com (project level)" url="http://cis230.chesthighwalls.com">
+        <fileTransfer host="cis230.chesthighwalls.com" port="21" rootFolder="/cis230.chesthighwalls.com" username="benwal31">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
